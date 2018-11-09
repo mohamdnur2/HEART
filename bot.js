@@ -731,6 +731,5 @@ client.on("message", msg => {
   }
 });
 
-
-client.login('NTEwNDk5NDg3NjUxOTg3NDU3.DsdP9g.P9iyCvzlnWiezVr0MsSPqYT9C10
-');
+'
+client.login('NTEwNDk5NDg3NjUxOTg3NDU3.DsdP9g.P9iyCvzlnWiezVr0MsSPqYT9C10')
